@@ -5,6 +5,9 @@
 This website is a proof of concept of a custom video player with a glassmorphism style!
 Check it out [here](https://vracton.github.io/glassmorphism-video-player/)!
 
+### Warning:
+Files were shortened to only 10 seconds because I had a bunch of issues geting them to work non-locally. :(
+
 ## Features:
 - good-looking glassmorphism UI
 - watch Big Buck Bunny short movie
